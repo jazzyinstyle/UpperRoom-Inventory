@@ -2,7 +2,7 @@
 
 **UpperRoom Inventory** is a Windows desktop Application written in Borland C++, to provide Store Inventory capability.
 
-*Note: This project was undertaken voluntarily for a Cafe ran by an NGO.*
+*Note: This project was undertaken voluntarily for the UpperRoom Cafe operated by an NGO.*
 
 ## To install
 
